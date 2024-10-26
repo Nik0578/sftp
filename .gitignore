@@ -5,3 +5,4 @@
 *.tfstate
 *.tfstate.*
 nikhil.pub
+*.terraform.lock.hcl
